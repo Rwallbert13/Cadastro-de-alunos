@@ -1,7 +1,7 @@
 # cadastro-de-alunos
 Aplicativo de cadastro de alunos como exercício nas aulas de desenvolvimento de sistemas do Senac
 
-## Fase 1
+## Fase 1 cap.2
 
 Iniciando a proposta, que é construir um sistema de informação, declare as variáveis para o algoritmo de cadastramento de alunos, cujos dados são:
 
@@ -25,7 +25,8 @@ Classifique os dados segundo os tipos das variáveis (numéricos, literais ou l�
 
 ## Diagrama de classe:
 
-```mermaid
+```
+mermaid
 classDiagram
     class Aluno{
       +String nome
@@ -42,9 +43,8 @@ classDiagram
       +int grauDeEscolaridade
     }
 ```
-```
 
-## Fase2 cap. 4
+## Fase 2 cap. 4
 
 Atribuição de valores às variáveis:
 
